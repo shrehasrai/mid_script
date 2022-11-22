@@ -1,0 +1,8 @@
+*.xlsx
+untitled*.ipynb
+.ipynb_checkpoints/
+*.rar
+*.exe
+*.zip
+__pycache__/
+*.csv
